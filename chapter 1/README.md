@@ -1,4 +1,7 @@
 # Notes
+
+## Framework
+
 ![](https://github.com/fujunustc/Reinforcement-Learning-An-Introduction/raw/master/chapter%201/framework.png)
 
 ## Reinforcement Learning & supervised learning & unsupervised learning 
