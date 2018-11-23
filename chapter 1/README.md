@@ -17,11 +17,17 @@
 
 
 ## Reinforcement Learning & supervised learning 
- + RL do has (sample, label) pair, however label might be uncorrect
- + The goals of RL is maximize the episode of reward rather than a structure information
 
-## Reinforcement Learning & unsupervised learning  
- 
++ common
+
++ difference:
+
+## Reinforcement Learning & unsupervised learning 
+
++ common
+
++ difference:
+
 ## Reinforcement Learning & Envolution Learning 
  
 ## History of Reinforcement Learning
