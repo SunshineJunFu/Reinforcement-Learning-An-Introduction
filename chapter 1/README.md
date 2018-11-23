@@ -2,10 +2,9 @@
 
 ## Framework
 
-<div align="center">
-<img src="https://github.com/fujunustc/Reinforcement-Learning-An-Introduction/raw/master/chapter%201/framework.png" height="400px" alt="framework" >
 
-<div align="left">
+![](https://github.com/fujunustc/Reinforcement-Learning-An-Introduction/raw/master/chapter%201/framework.png)
+
 ## Reinforcement Learning & supervised learning & unsupervised learning 
  + RL do has (sample, label) pair, however label might be uncorrect
  + The goals of RL is maximize the episode of reward rather than a structure information
