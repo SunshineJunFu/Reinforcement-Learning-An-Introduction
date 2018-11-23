@@ -18,15 +18,15 @@
 
 ## Reinforcement Learning & supervised learning 
 
-+ common
++ similarities:
 
-+ difference:
++ differences:
 
 ## Reinforcement Learning & unsupervised learning 
 
-+ common
++ similarities:
 
-+ difference:
++ differences:
 
 ## Reinforcement Learning & Envolution Learning 
  
