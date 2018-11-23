@@ -2,7 +2,8 @@
 
 ## Framework
 
-![](https://github.com/fujunustc/Reinforcement-Learning-An-Introduction/raw/master/chapter%201/framework.png)
+<div align="center">
+<img src="https://github.com/fujunustc/Reinforcement-Learning-An-Introduction/raw/master/chapter%201/framework.png" height="400px" alt="framework" >
 
 ## Reinforcement Learning & supervised learning & unsupervised learning 
  + RL do has (sample, label) pair, however label might be uncorrect
