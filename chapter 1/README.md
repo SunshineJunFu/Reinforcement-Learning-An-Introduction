@@ -35,5 +35,9 @@
 + `differences`: 
  
 ## History of Reinforcement Learning
+
++ trial and error 
+
++ optimal control 
  
  
